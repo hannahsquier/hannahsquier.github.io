@@ -289,6 +289,12 @@
 	display: block;
 }
 /***************************Footer**************************/
+.wrapper {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -50px;
+}
 
 .footer {
 
@@ -300,7 +306,9 @@
 	height: 50px;
 }
 
-
+.push {
+	height: 50px;
+}
 .footer p{
 	color: white;
 	font-family: Helvetica, sans-serif;
