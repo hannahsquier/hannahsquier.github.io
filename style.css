@@ -114,23 +114,26 @@
 	height: 50px;
 	width: 50px;
 	margin: 1px;
+	border-radius: 10px;
 }
 
 .contact li {
 	display: inline;
 	-webkit-filter: grayscale(0);
+	border-radius: 10px;
 }
 
 .contact li:hover {
 	-webkit-filter: grayscale(.7);
 }
 
-.contact p{
+.contact p {
 	text-align: center;
 	font-family: Helvetica, sans-serif;
 	font-size: 16px;
 	color: #F0371E;
 	padding: 1px;
+	border-radius: 10px;
 }
 
 /****************************Titles**************************/
