@@ -30,13 +30,41 @@
 /****************************Intro**************************/
 
 .intro .leftpic {
-  background-image:url('images/partcivilengineer.jpg');
+  background-image:url('images/environmentalist.jpeg');
+  background-size: 600px, 300px;
+  background-size: cover;
   height: 400px;
   opacity: 1.0;
   display: inline;
   margin: 10px 5px 20px -5px;
   float: left;
- text-align: right;
+ text-align: center;
+}
+
+
+.intro .rightpic {
+  background-image:url('images/planner.jpg');
+  background-size: 100%;
+  background-size: cover;
+  height: 400px;
+  opacity: 1.0;
+  display: inline;
+  margin: 10px -5px 20px 10px;
+  text-align: center;
+  float: right;
+
+}
+
+.intro .midpic {
+  background-image:url('images/ggb.jpg');
+  background-size: 100%;
+  background-size: cover;
+  height: 400px;
+  opacity: 1.0;
+  display: inline;
+  margin: 10px -5px 20px -5px;
+  text-align: center;
+  float: right;
 }
 
 .intro .leftpic:hover {
@@ -47,15 +75,8 @@
 	opacity: 0.8;
 }
 
-.intro .rightpic {
-  background-image:url('images/partprogrammer.jpg');
-  height: 400px;
-  opacity: 1.0;
-  display: inline;
-  margin: 10px -5px 20px 5px;
-  text-align: left;
-  float: right;
-
+.intro .midpic:hover {
+	opacity: 0.8;
 }
 
 .intro p {
@@ -64,7 +85,7 @@
   	font-weight: bolder;
   	font-family: Helvetica, sans-serif;
   	width: 100%;
-  	margin-top:  225px;
+  	margin-top:  200px;
   	text-shadow: 2px 2px 0 #000;
 }
 
