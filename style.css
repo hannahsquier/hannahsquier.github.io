@@ -206,8 +206,8 @@
 	margin: 10px;
 	display: inline-block;
 	position: relative;
-	height: 260px;
-	width: 22%;
+	height: 270px;
+	width: 30%;
 	min-width: 210px;
 }
 
@@ -215,6 +215,15 @@
 	max-width: 95%;
 	max-height: 95%;
 	padding: 10px;
+}
+
+.myprojects .subtitle {
+	font-size: 16px;
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+	color: #939393;;
+	margin-top: 5px;
+	font-weight: bold;
 }
 
 /****************************Work Experience**************************/
