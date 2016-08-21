@@ -38,7 +38,7 @@ transition-duration: 1s;
 }
 
 /* opener */
-#opener {
+/*#opener {
   background-image: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("images/sf.jpg");
   width: 100%;
   height: 800px;
@@ -47,6 +47,16 @@ transition-duration: 1s;
   background-position: center;
    margin-left: 0px;
    margin-right: 0px;
+}*/
+
+#opener { 
+  background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("images/sf.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    height: 800px;
+
 }
 
 #title-div {
