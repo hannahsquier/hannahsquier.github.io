@@ -9,11 +9,13 @@
 .no-right-margin {
   width: 98%
 }
-@media (max-width: 767px) {
+@media (max-width: 800px) {
   nav {
     display: none;
   }
 
+
+}
 /*
 #opener { 
   background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("images/ny_aerial.jpg") no-repeat center center fixed; 
@@ -101,31 +103,38 @@ transition-duration: 1s;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-
+  height: 1000px;
 
 }
 
 #title-div {
-  margin-top: 20%;
+  margin-top: 30%;
 }
 #title {
-  height: 100px;
-  font-size: 130px;
+  height: 130px;
+  font-size: 110px;
   width: 100%;
-  font-weight: bold;
+  font-weight: 200;
   font-family: 'Josefin Sans', sans-serif;
  /*font-family: 'Special Elite', cursive;*/
   text-align: center;
   color: white;
   line-height: 100px;
   display:inline-block;
-}
 
+}
+@media screen and (max-width: 800px) {
+  title {
+    font-size: 100px;
+  }
+
+
+}
 #subtitle {
-  margin-top: 8%;
+  margin-top: -8%;
   font-size: 50px;
   width: 100%;
-  font-weight: bold;
+  font-weight: 200;
   font-family: 'Josefin Sans', sans-serif;
   text-align: center;
   color: white;
