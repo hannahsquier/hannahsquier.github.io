@@ -2,21 +2,15 @@
 
 
 @media (max-width: 767px) {
-  body {
-    padding-right: -20px; 
-    padding-left: -20px;
+  navbar {
+    visibility: hidden;
   }
-
-.section-part {
-
-  width: 130%;
-
-}
 
 }
 
 html, body {
-margin: 0; !important;
+margin: 0, !important;
+padding: 0, !important;
 
 }
 
@@ -60,20 +54,10 @@ nav ul{
 transition-duration: 1s;
 }
 
-/* opener */
-/*#opener {
-  background-image: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("images/sf.jpg");
-  width: 100%;
-  height: 800px;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-   margin-left: 0px;
-   margin-right: 0px;
-}*/
+
 
 #opener { 
-  background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("images/sf.jpg") no-repeat center center fixed; 
+  background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("images/ny_aerial.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -83,21 +67,7 @@ transition-duration: 1s;
 
 
 }
-/*body:before {
-  content: "";
-  display: block;
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -10;
-  background:linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("images/sf.jpg") no-repeat center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: 100%;
-}*/
+
 
 #title-div {
   margin-top: 20%;
