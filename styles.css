@@ -16,19 +16,7 @@
 
 
 }
-/*
-#opener { 
-  background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("images/ny_aerial.jpg") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-    height: 900px;
-      width: 100%;
 
-
-}
-*/
 
 }
 
@@ -81,8 +69,8 @@ transition-duration: 1s;
 
 
 
-/*#opener { 
-  background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("images/ny_aerial.jpg") no-repeat center center fixed; 
+/*#opener {
+  background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("images/ny_aerial.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -93,12 +81,12 @@ transition-duration: 1s;
 
 }*/
 
-#opener { 
-  background-color: #000; 
+#opener {
+  background-color: #000;
   background-image: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("images/ny_aerial.jpg") ;
-  background-repeat: no-repeat; 
-  background-position: center; 
-  background-attachment: fixed; 
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -108,7 +96,7 @@ transition-duration: 1s;
 }
 
 #title-div {
-  margin-top: 30%;
+  margin-top: 25%;
 }
 #title {
   height: 130px;
