@@ -93,6 +93,7 @@ transition-duration: 1s;
   background-size: cover;
   height: 1000px;
 
+
 }
 
 #title-div {
@@ -133,7 +134,7 @@ transition-duration: 1s;
 .glyphicon-menu-down {
   margin-top: 10%;
   text-align: center;
-  color: #EEF646;
+  color: #F1FF92;
   font-size: 40px;
   margin-left: 50%;
 
@@ -177,7 +178,7 @@ transition-duration: 1s;
 
 .contact-me, .about-me{
 
-  background-color: #EEF646;
+  background-color: #F1FF92;
 }
 
 .portfolio img {
@@ -190,7 +191,7 @@ transition-duration: 1s;
 
 .portfolio-item:hover {
   padding-left: 18px;
-  border-left: 2px solid #EEF646;
+  border-left: 2px solid #F1FF92;
 
 }
 
