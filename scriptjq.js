@@ -17,7 +17,7 @@ $(document).ready(function(){
       scroll_pos = $(this).scrollTop();
 
       if(scroll_pos > offset.top) {
-          $('#navbar').css('background-color', '#fff');
+          $('#navbar').css('background-color', '#eee');
           $('#navbar a').css('color', '#000');
 
 
@@ -29,28 +29,28 @@ $(document).ready(function(){
 
     //Toggle as you scroll
        if(scroll_pos > aboutLevel && scroll_pos < portLevel) {
-        $('#nav-about').css('border-bottom', '2px solid #EEF646');
+        $('#nav-about').css('border-bottom', '2px solid #F1FF92');
         $('#nav-welcome').css('border-bottom', 'None');
         $('#nav-portfolio').css('border-bottom', 'None');
         $('#nav-contact').css('border-bottom', 'None');
        }
 
         else if(scroll_pos > portLevel && scroll_pos < contactLevel) {
-          $('#nav-portfolio').css('border-bottom', '2px solid #EEF646');
+          $('#nav-portfolio').css('border-bottom', '2px solid #F1FF92');
           $('#nav-about').css('border-bottom', 'None');
           $('#nav-welcome').css('border-bottom', 'None');
           $('#nav-contact').css('border-bottom', 'None');
        }
 
         else if(scroll_pos > contactLevel) {
-          $('#nav-contact').css('border-bottom', '2px solid #EEF646');
+          $('#nav-contact').css('border-bottom', '2px solid #F1FF92');
           $('#nav-about').css('border-bottom', 'None');
           $('#nav-welcome').css('border-bottom', 'None');
           $('#nav-portfolio').css('border-bottom', 'None');
        }
 
        else {
-          $('#nav-welcome').css('border-bottom', '2px solid #EEF646');
+          $('#nav-welcome').css('border-bottom', '2px solid #F1FF92');
           $('#nav-about').css('border-bottom', 'None');
           $('#nav-contact').css('border-bottom', 'None');
           $('#nav-portfolio').css('border-bottom', 'None');
