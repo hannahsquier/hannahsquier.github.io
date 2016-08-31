@@ -83,7 +83,7 @@ transition-duration: 1s;
 
 #opener {
   background-color: #000;
-  background-image: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("images/test3.jpeg") ;
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("images/test3.jpeg") ;
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
