@@ -190,8 +190,9 @@ transition-duration: 1s;
 }
 
 .portfolio-item:hover {
-  padding-left: 18px;
-  border-left: 2px solid #F1FF92;
+  padding-left: 16px;
+  border-left: 4px solid #F1FF92;
+/*  #background-color: #ffe;*/
 
 }
 
