@@ -4,7 +4,7 @@ layout: default
 
 For the past five years, I have worked at the intersection of government and technology. I am passionate about improving access to public services by making technology platforms more reliable and easy to use.
 
-### [LinkedIn](https://www.linkedin.com/hannahsquier) [Github](https://www.github.com/hannahsquier)
+### [LinkedIn](https://www.linkedin.com/in/hannahsquier) [Github](https://www.github.com/hannahsquier)
 
 # Work Experience
 - [Airbnb](https://www.airbnb.com)
@@ -24,9 +24,12 @@ For the past five years, I have worked at the intersection of government and tec
   - Summer 2013
 
 # Volunteering
--   TEALs
--   VoteForward
-  - Software
+-   [Microsoft TEALs](https://www.microsoft.com/en-us/teals)
+    - Taught high school computer science Kentucky for 2019-2020 school year
+    - Teaching Assistant for AP CS Principles in CA central valley
+-   [VoteForward](https://votefwd.org/)
+    - Volunteer software engineer to help get out the vote for 2020 election
+    - built admin tools to manage voters and letter writers
 
 # Projects
 *   Brick Breaker
@@ -39,7 +42,6 @@ For the past five years, I have worked at the intersection of government and tec
 *   Kafka
 *   Kubernetes
 *   Functional Java
-
 
 # Other places I appear on the internet
 * [goodreads](https://www.goodreads.com/user/show/29188428-hannah-squier)
