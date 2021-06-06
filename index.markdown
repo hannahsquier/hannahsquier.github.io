@@ -32,11 +32,19 @@ For the past five years, I have worked at the intersection of government and tec
     - built admin tools to manage voters and letter writers
 
 # Projects
-*   Brick Breaker
-*   GOTV
-*   Blackjack
-*   hBook
-*   F.O.M.A.A
+-  [Make it Count!](http://make-it-count.herokuapp.com/)
+    - A multi-platform tool to help inspire people to go to the polls in 2016 election
+    - Motivates Americans (especially in swing states) to learn about and participate in the electoral process
+-   [Blackjack](http://blackjackbyhannah.herokuapp.com/)
+    - In this simple but elegant blackjack app, you can wager your bets and try to beat the odds! 
+    - Built on Sinatra and in the style of clean, modular, object oriented programming
+-   [SF Bike Central](https://boiling-thicket-67912.herokuapp.com/)
+    - A platform for Bay Area bikers to report bike related incidents
+-   [hBook](https://mysterious-hollows-19482.herokuapp.com/)
+    - Fully featured Facebook clone with secure login, photo uploads, posts, comments, likes, etc.
+-   [F.O.M.A.A (Fear of Missing Out on Art and Alcohol)](https://mysterious-hollows-19482.herokuapp.com/)
+    - Your guide to exploring San Franciso and not missing out on both the Art and Bar Scenes
+    - Won 🏆FIRST PLACE🏆 at the San Francisco Women's Hackathon for technical performance
 
 # Technologies I 💙
 *   Kafka
