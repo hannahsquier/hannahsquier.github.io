@@ -4,21 +4,24 @@ layout: default
 
 <h3>
   <a href="https://www.linkedin.com/in/hannahsquier" target="_blank" ><i class="fa fa-linkedin"></i> LinkedIn</a>
-  <a href="https://www.github.com/hannahsquier" target="_blank" ><i class="fa fa-github"></i> Github</a>
+  <a href="https://www.github.com/hannahsquier" target="_blank" style="margin-left: 20px;"><i class="fa fa-github"></i> Github</a>
 </h3>
 For the past five years, I have worked at the intersection of government and technology. I am passionate about improving access to public services by making technology platforms more reliable and easy to use.
 
 
-# work experience
+# Work Experience
 - [Airbnb](https://www.airbnb.com)
   - March 2019 - Present
-  - Regulatory Platform Team
+  - Tech lead on the Regulatory Platform Team building software to meet Airbnb's legal/compliance needs
 
 - [OpenGov](https://www.opengov.com)
   - Dec 2016 - Feb 2019
+  - Key member on team migrating monolithic Ruby on Rails application to event driven, reactive, microservices framework
 
 - [Airphrame](https://www.airphrame.com)
   - Jan 2015 - July 2016
+  - GIS (Geographic Information Systems) Analyst
+  - Analyzed geospatial aerial data captured from UAVs for clients in fields of transportation, energy, water, environment, construction, and more
 
 - [codementor.io](https://www.codementor.io/)
   - Technical writer
@@ -28,8 +31,9 @@ For the past five years, I have worked at the intersection of government and tec
 
 - [LA Metro](https://metro.net)
   - Summer 2013
+  - Wrote technical environmental documents for LAX Metro Connector project
 
-# volunteering
+# Volunteering
 -   [Microsoft TEALs](https://www.microsoft.com/en-us/teals)
     - Taught high school computer science Kentucky for 2019-2020 school year
     - Teaching Assistant for AP CS Principles in CA central valley
@@ -37,12 +41,12 @@ For the past five years, I have worked at the intersection of government and tec
     - Volunteer software engineer to help get out the vote for 2020 election
     - built admin tools to manage voters and letter writers
 
-# technologies i 💙
+# Technologies I 💙
 *   Kafka
 *   Kubernetes
 *   Functional Java
 
-# projects
+# Projects
 -  [Make it Count!](http://make-it-count.herokuapp.com/)
     - A multi-platform tool to help inspire people to go to the polls in 2016 election
     - Motivates Americans (especially in swing states) to learn about and participate in the electoral process
@@ -59,7 +63,7 @@ For the past five years, I have worked at the intersection of government and tec
     - Your guide to exploring San Franciso and not missing out on both the Art and Bar Scenes
     - Won 🏆FIRST PLACE🏆 at the San Francisco Women's Hackathon for technical performance
 
-# other places i appear on the internet
-* [goodreads](https://www.goodreads.com/user/show/29188428-hannah-squier)
-* [strava](https://www.strava.com/athletes/12546114)
+# Other places I appear on the internet...
+* [Goodreads](https://www.goodreads.com/user/show/29188428-hannah-squier)
+* [Strava](https://www.strava.com/athletes/12546114)
 
