@@ -2,11 +2,14 @@
 layout: default
 ---
 
+<h3>
+  <a href="https://www.linkedin.com/in/hannahsquier" target="_blank" ><i class="fa fa-linkedin"></i> LinkedIn</a>
+  <a href="https://www.github.com/hannahsquier" target="_blank" ><i class="fa fa-github"></i> Github</a>
+</h3>
 For the past five years, I have worked at the intersection of government and technology. I am passionate about improving access to public services by making technology platforms more reliable and easy to use.
 
-### [LinkedIn](https://www.linkedin.com/in/hannahsquier) [Github](https://www.github.com/hannahsquier)
 
-# Work Experience
+# work experience
 - [Airbnb](https://www.airbnb.com)
   - March 2019 - Present
   - Regulatory Platform Team
@@ -17,13 +20,16 @@ For the past five years, I have worked at the intersection of government and tec
 - [Airphrame](https://www.airphrame.com)
   - Jan 2015 - July 2016
 
-- [codementor.io](https://metro.net)
+- [codementor.io](https://www.codementor.io/)
   - Technical writer
+  - [6 Best Practices Ruby Beginners Should Know](https://www.codementor.io/ruby-on-rails/tutorial/6-ruby-best-practices-beginners-should-know)
+  - [Two Algorithms for Solving Vigenere's Cipher in Ruby](https://www.codementor.io/ruby-on-rails/tutorial/two-algorithms-for-solving-vigenere-cipher-in-ruby)
+  - [How To Optimize Your Code for Interview Questions](https://www.codementor.io/ruby-on-rails/tutorial/optimize-your-code-for-coding-interview)
 
 - [LA Metro](https://metro.net)
   - Summer 2013
 
-# Volunteering
+# volunteering
 -   [Microsoft TEALs](https://www.microsoft.com/en-us/teals)
     - Taught high school computer science Kentucky for 2019-2020 school year
     - Teaching Assistant for AP CS Principles in CA central valley
@@ -31,13 +37,20 @@ For the past five years, I have worked at the intersection of government and tec
     - Volunteer software engineer to help get out the vote for 2020 election
     - built admin tools to manage voters and letter writers
 
-# Projects
+# technologies i 💙
+*   Kafka
+*   Kubernetes
+*   Functional Java
+
+# projects
 -  [Make it Count!](http://make-it-count.herokuapp.com/)
     - A multi-platform tool to help inspire people to go to the polls in 2016 election
     - Motivates Americans (especially in swing states) to learn about and participate in the electoral process
--   [Blackjack](http://blackjackbyhannah.herokuapp.com/)
+-  [Blackjack](http://blackjackbyhannah.herokuapp.com/)
     - In this simple but elegant blackjack app, you can wager your bets and try to beat the odds! 
     - Built on Sinatra and in the style of clean, modular, object oriented programming
+- [Brickbreaker](/brick_breaker){:target="_blank"}
+    - Fully static plain javascript + jQuery + css brick breaker game
 -   [SF Bike Central](https://boiling-thicket-67912.herokuapp.com/)
     - A platform for Bay Area bikers to report bike related incidents
 -   [hBook](https://mysterious-hollows-19482.herokuapp.com/)
@@ -46,12 +59,7 @@ For the past five years, I have worked at the intersection of government and tec
     - Your guide to exploring San Franciso and not missing out on both the Art and Bar Scenes
     - Won 🏆FIRST PLACE🏆 at the San Francisco Women's Hackathon for technical performance
 
-# Technologies I 💙
-*   Kafka
-*   Kubernetes
-*   Functional Java
-
-# Other places I appear on the internet
+# other places i appear on the internet
 * [goodreads](https://www.goodreads.com/user/show/29188428-hannah-squier)
 * [strava](https://www.strava.com/athletes/12546114)
 
