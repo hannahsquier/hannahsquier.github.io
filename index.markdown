@@ -32,28 +32,29 @@ For the past five years, I have worked at the intersection of government and tec
 
 # Volunteering
 -   [Microsoft TEALs](https://www.microsoft.com/en-us/teals){:target="_blank"}
-    - Taught high school computer science Kentucky for 2019-2020 school year
-    - Teaching Assistant for AP CS Principles in CA central valley
+    - [Taught high school computer science in Kentucky](https://www.thenewsjournal.net/wburg-computer-students-getting-high-tech-help-from-google-intuit-airbnb-engineers/
+) for 2019-2020 school year
+    - Teaching Assistant for AP CS Principles in CA Central Valley
 -   [VoteForward](https://votefwd.org/){:target="_blank"}
     - Volunteer software engineer to help get out the vote for 2020 election
-    - built admin tools to manage voters and letter writers
+    - Built admin tools to manage voters and letter writers
 
 # Technologies I 💙
 *   Kafka
 *   Kubernetes
 *   Functional Java
 
-# Projects
--  [Make it Count!](http://make-it-count.herokuapp.com/){:target="_blank"}
-    - A multi-platform tool to help inspire people to go to the polls in 2016 election
-    - Motivates Americans (especially in swing states) to learn about and participate in the electoral process
+# Personal Projects
 -  [Blackjack](http://blackjackbyhannah.herokuapp.com/){:target="_blank"}
     - In this simple but elegant blackjack app, you can wager your bets and try to beat the odds! 
     - Built on Sinatra and in the style of clean, modular, object oriented programming
-- [Brickbreaker](/brick_breaker){:target="_blank"}
-    - Fully static plain javascript + jQuery + css brick breaker game
+- [Brick Breaker](/brick_breaker){:target="_blank"}
+    - Fully static plain JavaScript + jQuery + CSS brick breaker game
 -   [SF Bike Central](https://boiling-thicket-67912.herokuapp.com/){:target="_blank"}
     - A platform for Bay Area bikers to report bike related incidents
+-  [Make it Count!](http://make-it-count.herokuapp.com/){:target="_blank"}
+    - A multi-platform tool to help inspire people to go to the polls in 2016 election
+    - Motivates Americans (especially in swing states) to learn about and participate in the electoral process
 -   [hBook](https://mysterious-hollows-19482.herokuapp.com/){:target="_blank"}
     - Fully featured Facebook clone with secure login, photo uploads, posts, comments, likes, etc.
 -   [F.O.M.A.A (Fear of Missing Out on Art and Alcohol)](https://mysterious-hollows-19482.herokuapp.com/){:target="_blank"}
